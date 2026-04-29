@@ -1,3 +1,4 @@
-(interview-questions/backend-interview-questions.md is a markdown source file, so it should not be added to .gitignore)
-
-(empty - output nothing)
+```
+# Documentation
+*.md
+```
